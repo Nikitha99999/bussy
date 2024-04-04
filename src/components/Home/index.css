@@ -1,0 +1,470 @@
+/* Write your CSS code here */
+.cont-hidden {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.hidden-background {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1711954844/pexels-tim-douglas-65.jpg_lbn2ac.png');
+  width: 502px;
+  height: 400px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+.but-fashion {
+  border-width: 0px;
+
+  width: 60px;
+  height: 20px;
+  padding: 2px;
+  border-radius: 2px;
+  background: #f21d44;
+  color: #ffffff;
+  font-size: 12px;
+}
+.para-hidden {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.person-cont {
+  display: flex;
+  flex-direction: row;
+  color: #ffffff;
+}
+.person-image {
+  margin-top: 10px;
+  width: 10.8px;
+  height: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.rishi {
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+}
+.prior {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1711972075/pexels-christina-morillo-1181309-2-1-600x600.jpg_e2kxhd.png');
+  width: 453px;
+  height: 195px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+.but-fashion1 {
+  width: 70px;
+  height: 20px;
+  padding: 2px;
+  border-radius: 2px;
+  background: #f21d44;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: left;
+  border-width: 0px;
+}
+.every {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1711972138/pexels-antoni-shkraba-production-8041321.jpg_rjvsmo.png');
+  background-size: cover;
+  width: 453px;
+  height: 195px;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+.hr-side {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  border: 0px;
+}
+
+.container hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 500px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+
+.head-hot {
+  font-family: Roboto Slab;
+  font-size: 24px;
+  font-weight: 700;
+  padding-left: 15px;
+}
+.eating {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1711972666/alexander-mils-5X8oLkzZ1fI-unsplash-2-1.jpg_k3xabf.png');
+  background-size: cover;
+  width: 310px;
+  height: 380px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+
+.side-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.colour-change {
+  color: #989898;
+}
+.fix-cont {
+  width: 350px;
+  height: 417.56px;
+}
+.camera-head {
+  font-family: Roboto Slab;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+  color: #0c0c0c;
+}
+.side-below {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.containers hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 200px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+.hr-side {
+  display: flex;
+  align-items: center;
+}
+
+.containers {
+  display: flex;
+  border: 0px;
+}
+
+.everys {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1711986548/pexels-anna-shvets-3852159-1.jpg_xczlqh.png');
+  background-size: cover;
+  width: 310px;
+  height: 380px;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+.ele {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712057855/jason-zhao-eeu3pOcU0h0-unsplash-min-1.jpg_ashflc.png');
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  width: 233px;
+  height: 233px;
+}
+.ele-head {
+  font-size: 10px;
+}
+.environ-but {
+  width: 80px;
+  height: 20px;
+  padding: 2px;
+  border-radius: 2px;
+  background: #f21d44;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: left;
+  border-width: 0px;
+}
+
+.science {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712057856/pexels-artem-podrez-5726788.jpg_ihmat7.png');
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  width: 233px;
+  height: 233px;
+}
+.hot-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.ice {
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712057856/pexels-simon-berger-666737.jpg_phnghb.png');
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  width: 233px;
+  height: 233px;
+}
+.pol {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-size: cover;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-bottom: 5px;
+  width: 233px;
+  height: 233px;
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712057856/lukas-lehotsky-Xhle0cfnKrg-unsplash.jpg_w1txzu.png');
+}
+
+.containers2 {
+  display: flex;
+  flex-direction: row;
+  border: 0px;
+}
+.containers2 hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 850px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+.fas-life-tech-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.fas-cont {
+  display: flex;
+  flex-direction: column;
+}
+.containers3 {
+  display: flex;
+  flex-direction: row;
+  border: 0px;
+}
+.containers3 hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 150px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+.short-cont {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  height: 100px;
+  width: 327px;
+}
+.true {
+  height: 90px;
+  width: 90px;
+}
+.short-head {
+  font-family: Roboto Slab;
+  font-size: 12px;
+  font-weight: 700;
+  padding-left: 10px;
+}
+.check-cont {
+  width: auto;
+  height: 150px;
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712062975/ads-banner.jpg_kui9ym.png');
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 15px;
+  align-items: center;
+  background-size: cover;
+}
+.head-check {
+  font-family: Roboto Slab;
+  font-size: 24px;
+  font-weight: 600;
+
+  text-align: left;
+}
+.para-check {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+}
+.check-but {
+  margin-left: 10px;
+  width: 110px;
+  height: 40px;
+  padding: 14px;
+  gap: 0px;
+  border-width: 0px;
+  border-radius: 16px;
+  opacity: 0px;
+  color: #ffffff;
+  background-color: #f21d44;
+}
+.containers4 {
+  display: flex;
+  flex-direction: row;
+  border: 0px;
+}
+.containers4 hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 450px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+.dont-image {
+  width: 200px;
+  height: 200px;
+}
+.short-cont1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: auto;
+  margin-left: 10px;
+  height: cover;
+  width: 600px;
+  padding: 10px;
+}
+.pad-cont {
+  margin: 10px;
+}
+.short-head1 {
+  font-family: Roboto Slab;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: left;
+}
+.short-para {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+.containers5 {
+  display: flex;
+  flex-direction: row;
+  border: 0px;
+}
+.containers5 hr {
+  margin-top: 35px;
+  margin-left: 10px;
+  width: 340px;
+  border: none;
+  border-top: 1px solid #000;
+  margin-right: 0px;
+}
+.miss-tech-cont {
+  display: flex;
+  flex-direction: row;
+}
+
+.phone-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 300px;
+  width: 500px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-image: url('https://res.cloudinary.com/dr7oz1ugl/image/upload/v1712065848/tech-daily-CXklL5ca71w-unsplash.jpg_jv6341.png');
+}
+.para-hid {
+  font-family: Roboto Slab;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: left;
+  color: #ffffff;
+  padding: 5px;
+}
+.pop-cont {
+  display: flex;
+  flex-direction: column;
+}
+.en-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: left;
+}
+.more-but {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  padding: 5px;
+  border-radius: 16px;
+  border: 1px;
+  opacity: 0px;
+  color: #f21d44;
+  border-color: #f21d44;
+}
